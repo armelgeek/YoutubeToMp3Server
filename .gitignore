@@ -106,3 +106,5 @@ dist
 # Ffmpeg
 *.mp3
 
+
+.now
